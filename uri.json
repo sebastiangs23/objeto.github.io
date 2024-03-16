@@ -1,0 +1,36 @@
+{
+    "name": "REX Token",
+    "symbol": "REX",
+    "description": "Un token mas",
+    "seller_fee_basis_points": 500,
+    "image": "https://w7.pngwing.com/pngs/17/532/png-transparent-rex-toy-story-sheriff-woody-lelulugu-pixar-toy-story-background-tyrannosaurus-terrestrial-animal-velociraptor-thumbnail.png",
+    "attributes": [
+        {
+            "trait_type": "Background",
+            "value": "Toy"
+        },
+        {
+            "trait_type": "Mood",
+            "value": "Happy"
+        }
+    ],
+    "collection": {
+        "name": "Pixar Characters",
+        "family": "Pixar"
+    },
+    "properties": {
+        "files": [
+            {
+                "uri": "https://w7.pngwing.com/pngs/17/532/png-transparent-rex-toy-story-sheriff-woody-lelulugu-pixar-toy-story-background-tyrannosaurus-terrestrial-animal-velociraptor-thumbnail.png",
+                "type": "image/png"
+            }
+        ],
+        "category": "image",
+        "creators": [
+            {
+                "address": "5UDFjXPqxqqMuvn4HHrGeqfx1rxQrPZU2cKS1apyFNpV",
+                "share": 100
+            }
+        ]
+    }
+}
